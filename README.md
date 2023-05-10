@@ -30,7 +30,7 @@ Passionate Software Engineer and Machine Learning enthusiast, dedicated to creat
 ## Education :man_student:
 
 - Master in Computer Science - Khoury College of Computer Sciences, Northeastern University, class of 2024
-- Bachelors of Computer Science - BMS College of Engineering, class of 2021
+- Bachelors of Engineering in Computer Science - BMS College of Engineering, class of 2021
 
 ## Reach out to me at: :vulcan_salute:
 
