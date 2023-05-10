@@ -26,6 +26,8 @@ Passionate Software Engineer and Machine Learning enthusiast, dedicated to creat
 - Web Development: Flask, Postman, MySQL, PostgreSQL, MongoDB, AWS, GCP, Hadoop, and Apache Spark
 - Soft Skills: Customer Behavior, Communication, SDLC, Product Management, Market Research, Agile
 
+## Publications 📖
+- [Identification of Illegal Construction using ImageProcessing](https://www.ijcaonline.org/archives/volume175/number37/kiran-2020-ijca-920949.pdf)
 
 ## Education :man_student:
 
