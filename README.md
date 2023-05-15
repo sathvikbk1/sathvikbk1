@@ -1,4 +1,5 @@
-# Hi there, 👋 this is Sathvik Bellary
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=40&lines=Hi!!!!;This+is+Sathvik+Bellary!!!;.)
+
 
 Passionate Software Engineer and Machine Learning enthusiast, dedicated to creating innovative solutions and driving technological advancements. With a strong background in system architecture and full stack web development, I strive to build scalable and user-centric applications. Let's collaborate and make a positive impact together!
 
